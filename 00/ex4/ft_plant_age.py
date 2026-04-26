@@ -5,4 +5,4 @@ def ft_plant_age() -> None:
     else:
         print("Plant needs more time to grow.")
 
-ft_plant_age();
+# ft_plant_age();
